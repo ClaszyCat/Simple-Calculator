@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639095083 source:c:\users\yovii\documents\latihan ngoding\kalkulator string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
